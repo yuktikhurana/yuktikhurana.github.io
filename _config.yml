@@ -9,7 +9,7 @@ name: Yukti Khurana
 description: Ruby on Rails developer at Vinsol
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/IMG-20150418-WA0043.jpg
+avatar: https://yuktikhurana.github.io/images/IMG-20150418-WA0043.jpg
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: yuktikhurana
   instagram:
-  linkedin:
+  linkedin: in/yukti-khurana-a4b961a0
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
