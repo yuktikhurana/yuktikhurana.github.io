@@ -59,7 +59,7 @@ layout: default
             <label for="name">Your name</label>
           </td>
           <td>
-            <input type="text" name="name">
+            <input type="text" name="name" required>
           </td>
         </tr>
         <tr>
@@ -67,7 +67,7 @@ layout: default
             <label for="url">Your website <span>(optional)</span></label>
           </td>
           <td>
-            <input type="text" name="url">
+            <input type="url" name="url">
           </td>
         </tr>
         <tr>
@@ -75,7 +75,7 @@ layout: default
             <label for="email">Your email <span>(I'll never spam you)</span></label>
           </td>
           <td>
-            <input type="text" name="email">
+            <input type="email" name="email" required>
           </td>
         </tr>
         <tr>
@@ -83,7 +83,7 @@ layout: default
             <label for="comment">Your comment</label>
           </td>
           <td>
-            <textarea name="comment" cols='50' rows='5' class="comment-text"></textarea>
+            <textarea name="comment" cols='50' rows='5' class="comment-text" required></textarea>
           </td>
         </tr>
         <tr>
