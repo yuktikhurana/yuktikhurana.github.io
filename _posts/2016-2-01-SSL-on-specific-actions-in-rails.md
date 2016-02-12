@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SSL On Specific Actions In Rails
+description: A blog about ssl on specific actions in rails using the ssl_requirement gem. Also the pros and cons of other methods like config.force_ssl, protocol in routes and views.
 ---
 
 The reason for this post is we wanted to make some part of our application to be served over https. We're working on a shopping site so wanted the cart and payment sections to be secure. There were few options available and had to make a choice. Here's the finding.

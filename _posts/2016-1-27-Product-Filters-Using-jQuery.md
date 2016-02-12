@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Product filters using jQuery
+description: A blog about jquery filters for shopping sites. Products can be filtered on the basis of attributes they have, like colour, size, shape etc. products which have multiple attributes and values, so a product can be available in multiple colors in different sizes
 ---
 
 We were working on making changes in an e-commerce website where we needed to filter products based on the attributes they have, like colour, size, shape etc. In our case we were having products which have multiple attributes and values, so a product can be available in multiple colors in different sizes. Our major concern was how to identify the set of products to display by filtering them based on these multiple attributes. 
