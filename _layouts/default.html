@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="google-site-verification" content="f3dyETtuvjZ9GnXKKm2dX5uaaJTTd3FnRWMevthpzkM" />
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -39,6 +40,7 @@
 
     <div id="main" role="main" class="container">
       {{ content }}
+      {% include disqus.html %}
     </div>
 
     <div class="wrapper-footer">

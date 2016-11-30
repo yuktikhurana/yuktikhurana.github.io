@@ -1,5 +1,6 @@
 ---
 layout: post
+identifier: partial_ssl
 title: SSL On Specific Actions In Rails
 description: A blog about ssl on specific actions in rails using the ssl_requirement gem. Also the pros and cons of other methods like config.force_ssl, protocol in routes and views.
 ---

@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://yuktikhurana.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -76,3 +76,5 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+disqus: http-yuktikhurana-github-io
